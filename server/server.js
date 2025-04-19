@@ -32,3 +32,11 @@ mongoose.connect(process.env.mongooseURL)
     .catch((err) => {
         console.error(err);
     })
+
+app.get("/admin/credentials", (req, res) => {
+    res.json({
+      username: "admin",
+      password: "admin123"
+    });
+  });
+  
