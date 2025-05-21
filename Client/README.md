@@ -2,8 +2,6 @@
 
 Welcome to the Adoptbuddy Pet Adoption System front-end repository! This project is developed using React.js and aims to provide a user-friendly interface for users to discover and adopt pets.
 
-![Capture](https://github.com/Ketan-cmd/Adoptbuddy-Pet-Adoption-System-Front-end-with-React-Js/assets/114513868/a7d18bd8-db40-4729-ad56-5d4d90b7571f)
-
 ## Introduction
 Adoptbuddy is a web application that connects pet lovers with pets in need of a home. Our platform simplifies the process of pet adoption by providing a seamless user experience.
 
