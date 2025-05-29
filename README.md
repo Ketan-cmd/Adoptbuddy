@@ -2,7 +2,6 @@
 "Adoptbuddy" is a website where you can either give a pet up for adoption or adopt one. If you have a pet you can't care for anymore, you fill out a form. The admin then decides if they can put your pet on Adoptbuddy. If they approve, they'll ask you to bring the pet to an adoption center.
 
 If you want to adopt a pet, you fill out a form with your details. The admin gets a lot of requests and picks the best one. If they choose you, they'll delete the other requests and take the pet off Adoptbuddy. They'll keep a record of the pet and your contact info.
-
 So, Adoptbuddy makes it easy to find new homes for pets and connect them with people who want to adopt.
 
 
