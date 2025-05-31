@@ -8,16 +8,22 @@ So, Adoptbuddy makes it easy to find new homes for pets and connect them with pe
 ## Introduction
 Adoptbuddy is a web application that connects pet lovers with pets in need of a home. Our platform simplifies the process of pet adoption by providing a seamless user experience.
 
-## Features
-- Users can submit a pet for adoption by filling out a form.
-- Admin reviews adoption submissions and can approve or reject them.
-- Approved pets are listed on Adoptbuddy for potential adopters to view.
-- Users interested in adopting a pet fill out an application form.
-- Admin evaluates adoption applications to select the most suitable adopter.
-- Admin maintains a history of adopted pets and their new owners.
-- User can browse and search for available pets for adoption.
-- They can filter pets based on pet type i.e. dog, cat, fish, etc.
-- Adoptbuddy offer detailed pet profiles with photos and descriptions.
+🔑 Core Features
+🐾 Pet Submission: Users submit a form to list a pet for adoption.
+
+🕵️ Admin Review: Admin approves or rejects pet submissions.
+
+📜 Pet Listings: Approved pets appear on the platform with full profiles.
+
+📝 Adoption Requests: Interested users submit an application form.
+
+✅ Admin Selection: Admin selects the best adopter and removes other applications.
+
+🗃️ Adoption Records: Admin stores adopter and pet info post-adoption.
+
+🔍 Browse & Filter Pets: Users can search/filter by pet type (e.g., dog, cat, fish).
+
+📸 Detailed Profiles: Each pet has a photo and description.
 
 ## Technology Stack
 Adoptbuddy is built using the MERN stack (MongoDB, Express.js, React, Node.js).
